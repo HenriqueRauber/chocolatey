@@ -13,16 +13,16 @@ choco install explorer-winconfig --params "'/SHOWHIDDEN:yes /SHOWEXTENSIONS:yes 
 choco install desktopicons-winconfig --params "'/Desktop:NO /UserFiles:NO /ControlPanel:NO /Network:NO /RecycleBin:YES /OneDrive:NO'"
 
 # Basics
-choco install geforce-experience
-choco install cmder
+#choco install geforce-experience
+#choco install cmder
 choco install listary
 choco install winrar
 choco install lightshot
 
 # Browser
 choco install googlechrome
-choco install opera
-choco install firefox
+#choco install opera
+#choco install firefox
 
 # Text Editor
 choco install vscode
@@ -31,19 +31,19 @@ choco install sublimetext3
 # Controle de Versão de Código
 choco install git
 choco install github-desktop
-choco install gitkraken
+#choco install gitkraken
 
 # REST Client
 choco install postman
 choco install insomnia-rest-api-client
 
 # DB
-choco install mysql
+#choco install mysql
 
 # IDE 
-choco install jdk8
-choco install jetbrainstoolbox
-choco install netbeans
+#choco install jdk8
+#choco install jetbrainstoolbox
+#choco install netbeans
 
 # Music/Video
 choco install vlc
@@ -52,4 +52,4 @@ choco install spotify
 # Others
 choco install discord
 choco install whatsapp
-choco install thunderbird
+#choco install thunderbird
