@@ -8,12 +8,12 @@ Just copy and paste on CMD as Administrator
 
 [My own chocolatey script for desktop](https://raw.githubusercontent.com/gustavowestarb/chocolatey/master/chocolatey-desktop.ps1) 
 
-@"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https<span>://raw.githubusercontent.com/gustavowestarb/chocolatey/master/chocolatey-desktop.ps1</span>'))"
+@"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https<span>://raw.githubusercontent.com/HenriqueRauber/chocolatey/master/chocolatey-desktop.ps1</span>'))"
 
 
 ### Laptop version
 
 [My own chocolatey script for laptop](https://raw.githubusercontent.com/gustavowestarb/chocolatey/master/chocolatey-laptop.ps1)
 
-@"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https<span>://raw.githubusercontent.com/gustavowestarb/chocolatey/master/chocolatey-laptop.ps1</span>'))"
+@"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https<span>://raw.githubusercontent.com/HenriqueRauber/chocolatey/master/chocolatey-laptop.ps1</span>'))"
 
